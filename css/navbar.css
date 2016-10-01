@@ -1,0 +1,39 @@
+
+#navbar-section{
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	background-color: #4e80db;
+	border: solid #3f68b5 2px;
+}
+
+.navbar-block:hover:not(.active) {
+    opacity: 0.8;
+    background-color: rgba(0,0,0,0.3);
+}
+
+.active {
+    opacity: 0.8;
+}
+
+
+.navbar-block{
+	text-align: center;
+	width:  11%;
+	margin: 20px 1px 15px 1px;
+	display: inline-block;
+}
+
+.navbar-text{
+	color:white;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+@media (min-width: 768px){
+	.navbar-text {
+    margin-right: 15px;
+    margin-left: 15px;
+    float:none;
+	}
+}

@@ -1,0 +1,30 @@
+#actividades-section{
+	background-color: #66b266;
+	color:#eaeaea;
+	text-align: center;
+	height: 500px;
+	padding: 30px;
+}
+
+.actividades-titulo{
+	margin: 30px;
+}
+
+.actividades-text{
+
+}
+
+.actividades-text-container{
+	margin-top:50px;
+}
+
+.actividades-descricao{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+@media (max-width: 1550px){
+	#actividades-section {
+    height: 550px;
+	}
+}

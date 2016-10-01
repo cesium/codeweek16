@@ -1,0 +1,115 @@
+- saturday6:
+  date: 15 OCT
+  dayOfWeek: SÁBADO
+  color: A
+  size: A
+  activities:
+    - name: Rails GirlsG
+      time: 15:00-17:00
+      place: GNRation
+      image: dititle.png
+      text: O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. <br> Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo.
+
+- monday:
+  date: 17 OCT
+  dayOfWeek: SEGUNDA
+  color: B
+  size: A 
+  activities:
+    - name: Html/Css
+      time: 9:00-9:30
+      place: DI A2
+      image: dititle.png
+      text: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, uma ou duas surpresas.
+
+- thuesday:
+  date: 18 OCT
+  dayOfWeek: TERÇA
+  color: C
+  size: C
+  activities:    
+
+    - name: Segurança
+      time: 10:00-13:00
+      place: DI A2
+      speaker: Adelino Faria
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+
+    - name: Informatica mas que raio
+      time: 10:00-13:00
+      place: DI A2
+      speaker:
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+
+    - name: Geek Nigth
+      time: 10:00-13:00
+      place: DI A2
+      speaker: Adelino Faria
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+
+- wensday:
+  date: 19 OCT
+  dayOfWeek: QUARTA
+  color: D
+  size: B
+  activities:    
+
+    - name: DAY@DI
+      time: 10:00-13:00
+      place: DI A2
+      speaker: Adelino Faria
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+
+    - name: Informatic Tricks
+      time: 10:00-13:00
+      place: DI A2
+      speaker:
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+
+- twursday:
+  date: 20 OCT
+  dayOfWeek: QUINTA
+  color: E
+  size: A
+  activities:    
+
+    - name: Javascrip
+      time: 10:00-13:00
+      place: DI A2
+      speaker: Adelino Faria
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+
+- friday:
+  date: 21 OCT
+  dayOfWeek: SEXTA
+  color: F
+  size: A
+  activities:    
+
+    - name: Recreativo
+      time: 10:00-13:00
+      place: DI A2
+      speaker: Adelino Faria
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+
+
+- saturday2:
+  date: 22 OCT
+  dayOfWeek: SABADO
+  color: G
+  size: A
+  activities:    
+
+    - name: CoderDojo
+      time: 10:00-13:00
+      place: DI A2
+      speaker: Adelino Faria
+      image: dititle.png
+      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.

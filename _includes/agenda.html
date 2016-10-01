@@ -1,0 +1,27 @@
+{% for day in site.data.agenda %}
+
+<section id="agenda-section" class="agenda-color-{{ day.color }} col-md-12 agenda-{{ day.size }}">
+
+	<div class="col-md-12">
+
+		<h1 class="agenda-dia"> {{ day.date }}  - {{ day.dayOfWeek }}</h1>
+			
+			{% for act in day.activities %}
+			<div class="agenda-container col-md-8">
+
+				<h2 class="col-md-12 agenda-titulo"><b> {{ act.name }} </b></h2>
+				<h3 class="col-md-7 agenda-text">{{ act.text }}</h3>
+
+				<h4 class="col-md-12 agenda-detalhes"><b> {{ act.speaker}} </b></h4>
+				<h4 class="col-md-12 agenda-detalhes"> {{ act.place }} - {{ act.time }} </h4>
+			</div>
+			<div class="col-md-4">
+				<img src="img/{{ act.image }}" class="agenda-pic"/>
+			</div>
+		{% endfor %}
+
+	</div>
+
+</section>
+
+{% endfor %}

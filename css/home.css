@@ -1,0 +1,425 @@
+#home-section{
+	background-color: #5D94FB;
+	background-repeat:no-repeat;
+	background-position:center;
+	height: 900px;
+
+	-webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+	background-size:cover;
+}
+
+
+.home-mario{
+	bottom: 100px;
+	margin-left: 200px;
+	position: absolute;
+	height: 25%;
+}
+
+.home-floor1{
+	position: absolute;
+	bottom: -3%;
+	width: 100%;
+	height: 60px;
+}
+
+
+.home-code{
+	position: absolute;
+	margin-top: 190px;
+	margin-left: 250px;
+	height: 130px;
+}
+
+.home-week{
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 400px;
+	height: 130px;
+}
+
+.home-castelo{
+	position: absolute;
+	bottom: 20px;
+	margin-left: 75%;
+	height: 40%;
+}
+
+
+.home-di{
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 1100px;
+	height: 130px;
+}
+
+.home-lilcloud{
+	position: absolute;
+	margin-top: 410px;
+	margin-left: 13%;
+	height: 15%;
+}
+
+.home-bigcloud{
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 55%;
+	height: 15%;
+}
+
+
+.home-text{
+	color:#eaeaea;
+	position: absolute;
+	margin-top: 570px;
+	margin-left: 9%;
+}
+
+@media (max-width: 1690px){
+
+#home-section{
+	height: 800px;
+}
+
+
+.home-mario{
+	bottom: 150px;
+}
+
+.home-floor1{
+	bottom: 8%;
+	height: 55px;
+}
+
+
+.home-code{
+	margin-top: 170px;
+	margin-left: 150px;
+	height: 13%;
+}
+
+.home-week{
+	margin-top: 360px;
+	margin-left: 300px;
+	height: 13%;
+}
+
+.home-castelo{
+	bottom: 120px;
+	height: 30%;
+}
+
+
+.home-di{
+	margin-top: 360px;
+	margin-left: 900px;
+	height: 13%;
+}
+
+.home-lilcloud{
+	margin-top: 400px;
+	margin-left: 11%;
+	height: 13%;
+}
+
+.home-bigcloud{
+	height: 13%;
+}
+
+
+
+}
+
+
+
+
+@media (max-width: 1150px){
+
+
+
+.home-code{
+	margin-left: 100px;
+	height: 10%;
+}
+
+.home-week{
+	margin-top: 340px;
+	margin-left: 200px;
+	height: 10%;
+}
+
+.home-castelo{
+	height: 25%;
+	bottom: 100px;
+}
+
+
+.home-di{
+	margin-top: 340px;
+	margin-left: 650px;
+	height: 10%;
+}
+
+.home-lilcloud{
+	margin-top: 380px;
+	margin-left: 9%;
+	height: 13%;
+}
+
+.home-floor1{
+	bottom: 8%;
+	height: 40px;
+}
+
+.home-mario{
+	height: 17%;
+}
+
+
+
+}
+
+
+
+@media (max-width: 950px){
+
+
+#home-section{
+	height: 700px;
+}
+
+.home-code{
+	margin-left: 100px;
+	height: 10%;
+}
+
+.home-week{
+	margin-top: 340px;
+	margin-left: 200px;
+	height: 10%;
+}
+
+.home-castelo{
+	height: 20%;
+	margin-left: 65%;
+	bottom: 200px;
+}
+
+
+.home-di{
+	margin-top: 340px;
+	margin-left: 650px;
+	height: 10%;
+}
+
+.home-lilcloud{
+	margin-top: 340px;
+	margin-left: 6%;
+	height: 10%;
+}
+
+.home-bigcloud{
+	height: 10%;
+}
+
+.home-floor1{
+	bottom: 20%;
+	height: 30px;
+}
+
+.home-mario{
+	height: 15%;
+	bottom: 220px;
+}
+
+
+
+
+}
+
+
+
+
+
+@media (max-width: 830px){
+
+
+#home-section{
+	height: 650px;
+}
+
+.home-code{
+	margin-left: 80px;
+	height: 7%;
+}
+
+.home-week{
+	margin-top: 270px;
+	margin-left: 180px;
+	height: 7%;
+}
+
+.home-castelo{
+	height: 15%;
+	margin-left: 65%;
+	bottom: 245px;
+}
+
+
+.home-di{
+	margin-top: 270px;
+	margin-left: 500px;
+	height: 7%;
+}
+
+.home-lilcloud{
+	margin-top: 270px;
+	margin-left: 6%;
+	height: 10%;
+}
+
+.home-bigcloud{
+	height: 10%;
+}
+
+.home-floor1{
+	bottom: 25%;
+	height: 30px;
+}
+
+.home-mario{
+	height: 15%;
+	bottom: 260px;
+}
+
+
+
+
+}
+
+
+
+
+@media (max-width: 630px){
+
+
+#home-section{
+	height: 500px;
+}
+
+.home-code{
+	margin-top: 150px;
+	margin-left: 40px;
+	height: 5%;
+}
+
+.home-week{
+	margin-top: 230px;
+	margin-left: 140px;
+	height: 5%;
+}
+
+.home-castelo{
+	height: 15%;
+	margin-left: 65%;
+	bottom: 390px;
+}
+
+
+.home-di{
+	margin-top: 230px;
+	margin-left: 380px;
+	height: 5%;
+}
+
+.home-lilcloud{
+	margin-top: 270px;
+	margin-left: 6%;
+	height: 5%;
+}
+
+.home-bigcloud{
+	height: 5%;
+}
+
+.home-floor1{
+	bottom: 43%;
+	height: 20px;
+}
+
+.home-mario{
+	height: 10%;
+	bottom: 400px;
+	margin-left: 100px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media (max-width: 485px){
+
+
+#home-section{
+	height: 300px;
+}
+
+.home-code{
+	margin-top: 100px;
+	margin-left: 40px;
+	height: 3%;
+}
+
+.home-week{
+	margin-top: 150px;
+	margin-left: 100px;
+	height: 3%;
+}
+
+.home-castelo{
+	height: 10%;
+	margin-left: 65%;
+	bottom: 590px;
+}
+
+
+.home-di{
+	margin-top: 150px;
+	margin-left: 240px;
+	height: 3%;
+}
+
+.home-lilcloud{
+	margin-top: 140px;
+	margin-left: 6%;
+	height: 3%;
+}
+
+.home-bigcloud{
+	height: 3%;
+	margin-top: 110px;
+}
+
+.home-floor1{
+	bottom: 66%;
+	height: 15px;
+}
+
+.home-mario{
+	height: 5%;
+	bottom: 600px;
+	margin-left: 80px;
+}
+
+
+
+
+}
