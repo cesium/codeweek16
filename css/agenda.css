@@ -1,14 +1,11 @@
 #agenda-section{
 	position: relative;
 	color:#eaeaea;
+	padding:0px;
+	margin: 0px;
 }
 .agenda-titulo{
 	padding-top: 20px;
-	margin-left: 300px;
-}
-
-
-.agenda-text{
 	margin-left: 300px;
 }
 
@@ -26,6 +23,11 @@
 .agenda-dia{
 	padding-top: 5%;
 	margin-left: 250px;
+}
+
+.agenda-text{
+	font-size: 20px;
+	margin-left: 300px;
 }
 
 
@@ -70,4 +72,26 @@
 
 .agenda-size-C{
 	height: 1950px;
+}
+
+
+.break{
+	height: 700px;
+	width: 200px;
+	background-color: #444;
+	margin:0px;
+	margin-top: -120px;
+	position: absolute;
+}
+
+.break-A{
+	height: 700px;
+}
+
+.break-B{
+	height: 1400px;
+}
+
+.break-C{
+	height: 2100px;
 }

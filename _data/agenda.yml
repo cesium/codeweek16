@@ -1,26 +1,27 @@
 - saturday6:
-  date: 15 OCT
+  date: 15 OUT
   dayOfWeek: SÁBADO
   color: A
   size: A
   activities:
-    - name: Rails GirlsG
-      time: 15:00-17:00
-      place: GNRation
+    - name: Rails Girls
+      time: TBA
+      place: TBA
       image: dititle.png
-      text: O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. <br> Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo.
+      text: Achas que a Informatica é só para homens? Pois engana-te! Elas andam ai, e em peso! Se és uma rapariga interessada em Informatica e gostavas de aprender um bocado mais sobre ruby, isto é para ti!
 
 - monday:
-  date: 17 OCT
+  date: 17 OUT
   dayOfWeek: SEGUNDA
   color: B
   size: A 
   activities:
     - name: Html/Css
-      time: 9:00-9:30
-      place: DI A2
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, uma ou duas surpresas.
+      text: Da lista das coisas que podes usar agora e que o curso não te oferece HTML/CSS esta no topo. Aproveita esta oportunidade de aprender uma ferramenta nova e esta atento as surpresas que temos para ti.
 
 - thuesday:
   date: 18 OCT
@@ -30,25 +31,25 @@
   activities:    
 
     - name: Segurança
-      time: 10:00-13:00
-      place: DI A2
-      speaker: Adelino Faria
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+      text: A Eurotux apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.
 
     - name: Informatica mas que raio
-      time: 10:00-13:00
-      place: DI A2
-      speaker:
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+      text: A Informatica é um hobbie mas não uma vocação? Não és de um curso da área de Informatica mas estas interessado em aprender mais? Aparece, sim estamos a falar para ti! A informatica não é só para nerds! 
 
     - name: Geek Nigth
-      time: 10:00-13:00
-      place: DI A2
-      speaker: Adelino Faria
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+      text: E porque a semana esta a começar, mas uma pausa sabe sempre bem, aproveita este momento para relaxar, falar com os professores e beber uns copos, negocios negocios, diversão a parte.
 
 - wensday:
   date: 19 OCT
@@ -58,18 +59,18 @@
   activities:    
 
     - name: DAY@DI
-      time: 10:00-13:00
-      place: DI A2
-      speaker: Adelino Faria
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+      text: Se alguem de fora do ambiente informatico alguma vez te tentar exemplificar o teu ambiente de trabalho, vai tar a descrever esta atividade. Quer sejas um aluno do 1º ano e ainda não saibas nada de informatica quer estejas a acabar a tua tese, temos um lugar para ti. O teu lugar é aqui, participa neste dia e compete com outras equipas com os mesmos conhecimentos que tu. Então do que estas a espera para vir reservar lugar?
 
     - name: Informatic Tricks
-      time: 10:00-13:00
-      place: DI A2
-      speaker:
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+      text: A produtividade perfeita e o teu metodo de trabalho é algo a desemvolver durante anos!- toda a gente. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda, vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que de certeza que te vão ajudar durante o curso.
 
 - twursday:
   date: 20 OCT
@@ -79,11 +80,11 @@
   activities:    
 
     - name: Javascrip
-      time: 10:00-13:00
-      place: DI A2
-      speaker: Adelino Faria
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+      text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a Pedro Costa para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
 
 - friday:
   date: 21 OCT
@@ -93,12 +94,11 @@
   activities:    
 
     - name: Recreativo
-      time: 10:00-13:00
-      place: DI A2
-      speaker: Adelino Faria
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
-
+      text: Ao final de uma semana cheia a ultima coisa que te apetece é ires outra vez para dentro de um auditorio. Mete os musculos a mexer conosco e aproveita esta tarde para relaxar, tu mereces champeão.
 
 - saturday2:
   date: 22 OCT
@@ -108,8 +108,8 @@
   activities:    
 
     - name: CoderDojo
-      time: 10:00-13:00
-      place: DI A2
-      speaker: Adelino Faria
+      time: TBA-TBA
+      place: TBA
+      speaker: TBA
       image: dititle.png
-      text: É missão deste workshop apresentar a plataforma iOS e a linguagem dititle enquanto criamos uma app iOS. Vais entrar em contacto com os software design patterns mais recorrentes, boas práticas e uma abordagem hands-on para introduzirmos a tecnologia. <br> Para este workshop, vais precisar de trazer a tua máquina com OS X, último Xcode com Command Line Tools (v7.2) e Cocoapods.
+      text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.

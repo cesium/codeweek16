@@ -1,0 +1,21 @@
+#retro-section{
+
+	height: 300px;
+	background-color: #444;
+
+}
+
+
+.retro-title{
+	color:#eaeaea;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.retro-text{
+	color:#eaeaea;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 50px;
+	text-align: center;
+}
