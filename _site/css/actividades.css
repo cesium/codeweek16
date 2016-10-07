@@ -1,0 +1,135 @@
+#actividades-section{
+	background-color: #66b266;
+	color:#eaeaea;
+	text-align: center;
+	height: 500px;
+	padding: 30px;
+}
+
+.actividades-titulo{
+	margin: 30px;
+}
+
+.actividades-text-container{
+	margin-top:50px;
+}
+
+.actividades-descricao{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+@media (max-width: 1550px){
+	#actividades-section {
+    height: 550px;
+	}
+}
+
+
+@media (max-width: 1200px){
+	#actividades-section {
+    height: 600px;
+	}
+
+	.actividades-descricao{
+		padding-right: 50px;
+		padding-left: 50px;
+	}
+}
+
+
+@media (max-width: 990px){
+	#actividades-section {
+    height: 600px;
+	}
+
+	.atividades-descricao{
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+
+	.actvidades-titulo{
+		font-size: 15px;
+	}
+
+	.actividades-icon{
+		font-size: 60px;
+	}
+
+
+}
+
+
+
+@media (max-width: 850px){
+	#actividades-section {
+    height: 500px;
+	}
+
+	.actividades-descricao{
+		padding-right: 20px;
+		padding-left: 20px;
+		font-size: 15px;
+	}
+
+	.actividades-icon{
+		font-size: 60px;
+	}
+
+
+}
+
+@media (max-width: 768px){
+	#actividades-section {
+    height: 800px;
+	}
+
+	.actividades-descricao{
+		padding-right: 100px;
+		padding-left: 100px;
+		font-size: 15px;
+	}
+
+	.actividades-text{
+		font-size: 20px;
+	}
+
+	.actividades-icon{
+		font-size: 60px;
+	}
+
+
+}
+
+
+
+
+@media (max-width: 650px){
+	#actividades-section {
+    height: 750px;
+	}
+
+	.actividades-descricao{
+		padding-right: 20px;
+		padding-left: 20px;
+		font-size: 12px;
+	}
+
+	.actividades-text{
+		font-size:20px;
+	}
+
+	.actividades-icon{
+		font-size: 40px;
+	}
+
+
+}
+
+
+@media (max-width: 380px){
+	#actividades-section {
+    height: 800px;
+	}
+
+}

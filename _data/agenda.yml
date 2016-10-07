@@ -4,11 +4,14 @@
   color: A
   size: A
   activities:
-    - name: Rails Girls
-      time: TBA
+
+    - name: CoderDojo
+      time: TBA-TBA
       place: TBA
-      image: railsgirls.png
-      text: Achas que a Informatica é só para homens? Pois engana-te! Elas andam ai, e em peso! Se és uma rapariga interessada em Informatica e gostavas de aprender um bocado mais sobre ruby, isto é para ti!
+      speaker: TBA
+      image: coderdojo.png
+      text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
+
 
 - monday:
   date: 17 OUT
@@ -34,14 +37,14 @@
       time: TBA-TBA
       place: TBA
       speaker: TBA
-      image: segurança.png
+      image: seguranca.png
       text: A Eurotux apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.
 
     - name: Informatica mas que raio
       time: TBA-TBA
       place: TBA
       speaker: TBA
-      image: informatica_mas_que_raio.png
+      image: seguranca.png
       text: A Informatica é um hobbie mas não uma vocação? Não és de um curso da área de Informatica mas estas interessado em aprender mais? Aparece, sim estamos a falar para ti! A informatica não é só para nerds! 
 
     - name: Geek Nigth
@@ -62,14 +65,14 @@
       time: TBA-TBA
       place: TBA
       speaker: TBA
-      image: dititle.png
+      image: day@di.png
       text: Se alguem de fora do ambiente informatico alguma vez te tentar exemplificar o teu ambiente de trabalho, vai tar a descrever esta atividade. Quer sejas um aluno do 1º ano e ainda não saibas nada de informatica quer estejas a acabar a tua tese, temos um lugar para ti. O teu lugar é aqui, participa neste dia e compete com outras equipas com os mesmos conhecimentos que tu. Então do que estas a espera para vir reservar lugar?
 
     - name: Informatic Tricks
       time: TBA-TBA
       place: TBA
       speaker: TBA
-      image: informatic_tricks.png
+      image: informatictricks.png
       text: A produtividade perfeita e o teu metodo de trabalho é algo a desenvolver durante anos!- toda a gente. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda, vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que de certeza que te vão ajudar durante o curso.
 
 - twursday:
@@ -97,7 +100,7 @@
       time: TBA-TBA
       place: TBA
       speaker: TBA
-      image: dititle.png
+      image: seguranca.png
       text: Ao final de uma semana cheia a ultima coisa que te apetece é ires outra vez para dentro de um auditorio. Mete os musculos a mexer conosco e aproveita esta tarde para relaxar, tu mereces campeão.
 
 - saturday2:
@@ -107,9 +110,8 @@
   size: A
   activities:    
 
-    - name: CoderDojo
-      time: TBA-TBA
+    - name: Rails Girls
+      time: TBA
       place: TBA
-      speaker: TBA
-      image: coderdojo.png
-      text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
+      image: railsgirls.png
+      text: Achas que a Informatica é só para homens? Pois engana-te! Elas andam ai, e em peso! Se és uma rapariga interessada em Informatica e gostavas de aprender um bocado mais sobre ruby, isto é para ti!
