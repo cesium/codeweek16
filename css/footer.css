@@ -6,8 +6,8 @@
 	position: relative;
 	bottom: 0px;
 	width: 100%;
-	z-index: 10;
-	margin-top: 312%;
+	z-index: 10; 
+	margin-top: 254%;
 }
 
 .footer-link{
@@ -50,3 +50,4 @@
 .footer-icon-container{
 	margin-left: -2%;
 }
+
