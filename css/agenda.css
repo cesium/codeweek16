@@ -17,7 +17,8 @@
 
 .agenda-pic{
 	padding-top: 15%;
-	height: 200px;
+	max-height: 200px;
+	max-width: 200px;
 }
 
 .agenda-dia{
@@ -76,22 +77,80 @@
 
 
 .break{
-	height: 700px;
+	height: 100%;
 	width: 200px;
 	background-color: #444;
 	margin:0px;
-	margin-top: -120px;
+	margin-top: 0px;
 	position: absolute;
 }
 
-.break-A{
-	height: 700px;
+@media (max-width: 995px){
+	.agenda-pic{
+		max-width: 00px;
+	}
 }
 
-.break-B{
-	height: 1400px;
+
+@media (max-width: 700px){
+	.break{
+		width: 100px;
+	}
+
+
+
+	.agenda-titulo{
+		padding-top: 20px;
+		margin-left: 150px;
+	}
+
+	.agenda-detalhes{
+		margin-left: 150px;
+		padding-bottom: 30px;
+	}
+
+	.agenda-dia{
+		padding-top: 5%;
+		margin-left: 125px;
+	}
+
+	.agenda-text{
+		font-size: 20px;
+		margin-left: 150px;
+	}
+
+
+
+
 }
 
-.break-C{
-	height: 2100px;
+
+@media (max-width: 500px){
+	.break{
+		width: 00px;
+	}
+
+
+
+	.agenda-titulo{
+		margin-left: 50px;
+	}
+
+	.agenda-detalhes{
+		margin-left: 50px;
+		
+	}
+
+	.agenda-dia{
+		margin-left: 125px;
+	}
+
+	.agenda-text{
+		font-size: 15px;
+		margin-left: 50px;
+	}
+
+
+
+
 }

@@ -69,14 +69,6 @@
 	height: 150px;
 }
 
-
-.home-text{
-	color:#eaeaea;
-	position: absolute;
-	margin-top: 570px;
-	margin-left: 90px;
-}
-
 @media (max-width: 1690px){
 
 #home-section{
@@ -129,12 +121,6 @@
 	height: 120px;
 	margin-left: 600px;
 }
-.home-text{
-	margin-top: 450px;
-	margin-left: 150px;
-}
-
-
 
 }
 
@@ -191,10 +177,6 @@
 .home-mario{
 	height: 120px;
 	bottom: 40px;
-}
-
-.home-text{
-	margin-top: 490px;
 }
 
 
@@ -255,11 +237,6 @@
 }
 
 
-.home-text{
-	margin-top: 430px;
-	font-size: 15px;
-	margin-left: 180px
-}
 
 
 
@@ -319,11 +296,6 @@
 	height: 85px;
 	bottom: 165px;
 	margin-left: 100px;
-}
-
-.home-text{
-	margin-left: 80px;
-	margin-top: 400px;
 }
 
 
@@ -424,11 +396,6 @@
 	margin-left: 80px;
 }
 
-.home-text{
-	margin-top: 220px;
-	font-size: 10px;
-	margin-left: 65px; 
-}
 
 
 
@@ -490,11 +457,6 @@
 	margin-left: 80px;
 }
 
-.home-text{
-	margin-top: 220px;
-	font-size: 10px;
-	margin-left: 65px; 
-}
 
 
 
