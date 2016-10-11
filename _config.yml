@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Code Week 2015 @ UMinho"
+title:       "Code Week 2016 @ UMinho"
 keywords:    "CeSIUM, jekyll, Code Week, github, universidade do minho, departamento informatica"
-description: "Code Week 2015 no Departamento de Informática da Universidade do Minho, organizada pelo CeSIUM - Centro de Estudantes de Engenharia Informática"
+description: "Code Week 2016 no Departamento de Informática da Universidade do Minho, organizada pelo CeSIUM - Centro de Estudantes de Engenharia Informática"
 source_link: "https://github.com/cesium/codeweek15"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"

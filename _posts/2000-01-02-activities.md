@@ -18,8 +18,8 @@ icon: cesium.png
   <div class="col s12 m4 feature">
     <i class="fa fa-laptop fa-4x">
     </i>
-    <h4> Hackathons </h4>
-    <p class="feature-description"> Duas hackathons, onde poderás passar a tarde e até a noite connosco, no Departamento de Informática, a programar. </p>
+    <h4> Day@DI </h4>
+    <p class="feature-description"> Um dia inteiro no DI, onde poderás passar a tarde e até a noite connosco a programar. </p>
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-terminal fa-4x">
@@ -28,7 +28,7 @@ icon: cesium.png
     <p class="feature-description"> Concurso de programação que decorrerá toda a semana! Enunciado em baixo. </p>
   </div>
 </div>
-
+<!--
 <ul class="challenge collapsible" data-collapsible="accordion">
   <li>
     <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Enunciado</div>
@@ -58,3 +58,4 @@ icon: cesium.png
     </div>
   </li>
 </ul>
+-->
