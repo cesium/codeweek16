@@ -1,6 +1,6 @@
 saturday1:
   - title: CoderDojo
-    time: 10h-20h
+    time: 10h-12h
     place: GNRation
     image: coderdojo.png
     typeform: 
@@ -36,7 +36,7 @@ tuesday:
     text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estas interessado em aprender mais? Aparece, sim estamos a falar para ti! A informática não é só para nerds!
 
   - title: Geek Night
-    time: 20h30-22h
+    time: 22h-24h
     place: Velha-a-Branca
     image: geenorbertk.png
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
@@ -83,7 +83,7 @@ friday:
 
 saturday2:
   - title: Rails Girls
-    time: 10h
+    time: 9h-17h
     place: DI
     image: rails.png
     typeform: https://cesium.typeform.com/to/HGjxbW
