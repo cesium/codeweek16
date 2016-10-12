@@ -42,20 +42,19 @@ tuesday:
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
 wednesday:
-  - title: The Shell Survival Guide
-    time: 16h-17h
-    place: DI 0.03
-    image: infotricks.png
-    typeform: https://cesium.typeform.com/to/L90X0Z
-    text: A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- toda a gente. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda, vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que de certeza que te vão ajudar durante o curso.
-    
   - title: Sessão de Estudo - [PF]
-    time: 17h
+    time: 16h
     place: DI 0.03
     image: sessao_estudo.png
     typeform: https://cesium.typeform.com/to/aXUXNw
     text: Sentes os testes a aproximar e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar duvidas e estudar conosco, programação não tem de ser complicada.
 
+  - title: The Shell Survival Guide
+    time: 17h-18h
+    place: DI 0.03
+    image: infotricks.png
+    typeform: https://cesium.typeform.com/to/L90X0Z
+    text: A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- toda a gente. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda, vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que de certeza que te vão ajudar durante o curso.
 
 thursday:
   - title: JavaScript
@@ -74,9 +73,9 @@ friday:
 
 
   - title: Recreativo 
-    time: 15h
+    time: 15h-17h
     place: TBA
-    image: red.png
+    image: recreativo.png
     typeform: https://cesium.typeform.com/to/qdMQiv
     text: Ao final de uma semana cheia a ultima coisa que te apetece é ires outra vez para dentro de um auditório. Mete os músculos a mexer connosco e aproveita esta tarde para relaxar, tu mereces campeão.
 
