@@ -9,19 +9,14 @@ icon: cesium.png
 
 # Temos preparado
 <div class="row features">
-  <div class="col s12 m4 feature">
+  <div class="col s12 m6 feature">
     <i class="fa fa-comments-o fa-4x">
     </i>
     <h4> Palestras e Workshops </h4>
     <p class="feature-description"> De segurança a HTML, aproveita os diferentes temas. </p>
   </div>
-  <div class="col s12 m4 feature">
-    <i class="fa fa-laptop fa-4x">
-    </i>
-    <h4> Day@DI </h4>
-    <p class="feature-description"> Um dia inteiro no DI, onde poderás passar a tarde e até a noite connosco a programar. </p>
-  </div>
-  <div class="col s12 m4 feature">
+  
+  <div class="col s12 m6 feature">
     <i class="fa fa-terminal fa-4x">
     </i>
     <h4> Desafio Algorítimico </h4>

@@ -42,19 +42,20 @@ tuesday:
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
 wednesday:
-  - title: Day@DI
-    time: 14h-
+  - title: The Shell Survival Guide
+    time: 16h-17h
     place: DI 0.03
-    image: hackathon.png
-    typeform: https://cesium.typeform.com/to/aXUXNw
-    text: Se alguém de fora do ambiente informático alguma vez te tentar exemplificar o teu ambiente de trabalho, vai estar a descrever esta atividade. Quer sejas um aluno do 1º ano e ainda não saibas nada de informática quer estejas a acabar a tua tese, temos um lugar para ti. O teu lugar é aqui, participa neste dia e compete com outras equipas com os mesmos conhecimentos que tu. Então do que estas a espera para vir reservar lugar?
-
-  - title: Informatic Tricks
-    time: 16h-18h
-    place: DI A2
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/L90X0Z
     text: A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- toda a gente. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda, vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que de certeza que te vão ajudar durante o curso.
+    
+  - title: Sessão de Estudo - [PF]
+    time: 17h
+    place: DI 0.03
+    image: sessao_estudo.png
+    typeform: https://cesium.typeform.com/to/aXUXNw
+    text: Sentes os testes a aproximar e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar duvidas e estudar conosco, programação não tem de ser complicada.
+
 
 thursday:
   - title: JavaScript
