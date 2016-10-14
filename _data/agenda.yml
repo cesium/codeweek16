@@ -54,7 +54,7 @@ wednesday:
     place: DI 0.03
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/L90X0Z
-    text: A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- dizem-te. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda! Vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que, de certeza que te vão ajudar durante o curso.
+    text: A shell pode ser assustadora. Demoras a fazer coisas, é lento, complicado e difícil e dás por ti a procurar sempre o rato para fazer tudo o que precisas. Usar um terminal não é fácil, mas uma shell dá-te super-poderes! Desde editores de texto a ficheiros de configuração, vamos-te ajudar a ser produtivo e dar os primeiros passos no mundo Unix.
 
 thursday:
   - title: JavaScript
