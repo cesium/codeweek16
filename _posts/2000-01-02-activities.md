@@ -5,7 +5,7 @@ color: white
 icon: cesium.png
 ---
 
-#### De que esperas?
+#### De que estás à espera?
 
 # Temos preparado
 <div class="row features">

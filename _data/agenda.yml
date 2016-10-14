@@ -1,24 +1,24 @@
 saturday1:
-  - title: CoderDojo
+  - title: CoderDojo Minho
     time: 10h-12h
     place: GNRation
     image: coderdojo.png
     typeform: 
-    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
+    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse em informática, aparece ou partilha!
 
 monday:
   - title: DI Goes Retro
     time: 9h-18h
     place: Átrio do DI
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de um museu aberto!
+    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrares as raízes da computação através de um museu aberto!
 
   - title: HTML/CSS
     time: 17h-19h
     place: DI A2
     image: html_css.png
     typeform: https://cesium.typeform.com/to/oUft1u
-    text: Da lista das coisas que podes usar agora e que o curso não te oferece HTML/CSS esta no topo. Aproveita esta oportunidade de aprender uma ferramenta nova e esta atento as surpresas que temos para ti.
+    text: Da lista das coisas que podes usar agora e que o curso não te oferece HTML/CSS está no topo. Aproveita esta oportunidade de aprenderes uma ferramenta nova e está atento às surpresas que temos para ti.
 
 tuesday:
   - title: Segurança
@@ -26,35 +26,35 @@ tuesday:
     place: DI A2
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/z1STis
-    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
+    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprenderes os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
     
-  - title: Informática mas que raio?!
+  - title: Informática, mas que raio?!
     time: TBA
     place: TBA
     image: informatictricks.png
     typeform: https://cesium.typeform.com/to/E3f80Y
-    text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estas interessado em aprender mais? Aparece, sim estamos a falar para ti! A informática não é só para nerds!
+    text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estás interessado em aprender mais? Então aparece! Sim estamos a falar para ti! A Informática não é só para nerds!
 
   - title: Geek Night
     time: 22h-24h
-    place: Velha-a-Branca
+    place: <a target="_blank" href="https://www.facebook.com/juno.cafe.braga/">Juno</a>
     image: geenorbertk.png
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
 wednesday:
-  - title: Sessão de Estudo - [PF]
+  - title: Sessão de Estudo de PF (Programação Funcional)
     time: 16h
     place: DI 0.03
     image: sessao_estudo.png
     typeform: https://cesium.typeform.com/to/aXUXNw
-    text: Sentes os testes a aproximar e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar duvidas e estudar conosco, programação não tem de ser complicada.
+    text: Sentes os testes a aproximarem-se e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar dúvidas e estudar connosco. A programação não tem de ser complicada.
 
   - title: The Shell Survival Guide
     time: 17h-18h
     place: DI 0.03
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/L90X0Z
-    text: A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- toda a gente. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda, vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que de certeza que te vão ajudar durante o curso.
+    text: A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- dizem-te. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda! Vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que, de certeza que te vão ajudar durante o curso.
 
 thursday:
   - title: JavaScript
@@ -77,7 +77,7 @@ friday:
     place: TBA
     image: recreativo.png
     typeform: https://cesium.typeform.com/to/qdMQiv
-    text: Ao final de uma semana cheia a ultima coisa que te apetece é ires outra vez para dentro de um auditório. Mete os músculos a mexer connosco e aproveita esta tarde para relaxar, tu mereces campeão.
+    text: No fim de uma semana cheia, a última coisa que te apetece é ires outra vez para dentro de um auditório. Mete os músculos a mexer connosco e aproveita esta tarde para relaxar. Tu mereces, campeão!
 
 
 saturday2:
@@ -86,4 +86,4 @@ saturday2:
     place: DI
     image: rails.png
     typeform: https://cesium.typeform.com/to/HGjxbW
-    text: Achas que a Informática é só para homens? Pois engana-te! Elas andam ai, e em peso! Se és uma rapariga interessada em Informática e gostavas de aprender um bocado mais sobre Ruby, isto é para ti!
+    text: Achas que a Informática é só para homens? Pois engana-te! Elas andam aí, e em peso! Se és uma rapariga interessada em Informática e gostavas de aprender um bocado mais sobre Ruby, isto é para ti!
