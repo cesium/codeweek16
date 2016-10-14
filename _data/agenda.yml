@@ -4,22 +4,22 @@ saturday1:
     place: GNRation
     image: coderdojo.png
     typeform: 
-    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
+    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática. 
 
 monday:
-  - title: DI Goes Retro
+ - title: DI Goes Retro
     time: 9h-18h
     place: Átrio do DI
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de um museu aberto!
+    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de um museu aberto! 
 
   - title: HTML/CSS
     time: 17h-19h
     place: DI A2
     image: html_css.png
     typeform: https://cesium.typeform.com/to/oUft1u
-    text: Da lista das coisas que podes usar agora e que o curso não te oferece HTML/CSS esta no topo. Aproveita esta oportunidade de aprender uma ferramenta nova e esta atento as surpresas que temos para ti.
-
+    text: Da lista das conhecimentos que poderias usar agora e que o curso não te oferece HTML/CSS está no topo. Aproveita esta oportunidade de aprender uma ferramenta útil e está atento ás surpresas que temos para ti.
+    
 tuesday:
   - title: Segurança
     time: 16h-18h
@@ -31,13 +31,13 @@ tuesday:
   - title: Informática mas que raio?!
     time: TBA
     place: TBA
-    image: informatictricks.png
+    image: infotricks.png
     typeform: https://cesium.typeform.com/to/E3f80Y
     text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estas interessado em aprender mais? Aparece, sim estamos a falar para ti! A informática não é só para nerds!
 
   - title: Geek Night
     time: 22h-24h
-    place: Velha-a-Branca
+    place: Juno Café 
     image: geenorbertk.png
     text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
 
@@ -45,16 +45,17 @@ wednesday:
   - title: The Shell Survival Guide
     time: 16h-17h
     place: DI 0.03
-    image: infotricks.png
+    image: informatictricks.png
     typeform: https://cesium.typeform.com/to/L90X0Z
-    text: A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- toda a gente. Será? <br> É. Mas, estamos aqui para te dar a primeira ajuda, vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que de certeza que te vão ajudar durante o curso.
-    
+    text: A shell pode ser assustadora. Demoras a fazer coisas, é lento, complicado e difícil e dás por ti a procurar sempre o rato para fazer tudo o que precisas. Usar um terminal não é fácil, mas uma shell dá-te super-poderes! Desde editores de texto a ficheiros de configuração, vamos-te ajudar a ser produtivo e dar os primeiros passos no mundo Unix.
+
+  
   - title: Sessão de Estudo - [PF]
     time: 17h
     place: DI 0.03
     image: sessao_estudo.png
     typeform: https://cesium.typeform.com/to/aXUXNw
-    text: Sentes os testes a aproximar e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar duvidas e estudar conosco, programação não tem de ser complicada.
+    text: Sentes os testes a aproximar e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar dúvidas e estudar conosco, programação não tem de ser complicada.
 
 
 thursday:
@@ -64,8 +65,8 @@ thursday:
     image: javascript.png
     typeform: https://cesium.typeform.com/to/EUBX4S
     text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
-
-friday:
+    
+    friday:
   - title: Retro Strikes Again
     time: 9h-18h
     place: Átrio do DI
