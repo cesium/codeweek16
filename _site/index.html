@@ -9,8 +9,8 @@
 
   <meta property="og:title" content="Code Week 2016 @ UMinho" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://www.cesium.di.uminho.pt/codeweek15" />
-  <meta property="og:image" content="http://www.cesium.di.uminho.pt/codeweek15/img/og-image.png" />
+  <meta property="og:url" content="http://www.cesium.github.io/codeweek16" />
+  <meta property="og:image" content="http://www.cesium.github.io/codeweek16img/og-image.png" />
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
   <link rel="stylesheet" href="stylesheets/combo.css">
@@ -28,7 +28,7 @@
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-67237593-2', 'auto');
+    ga('create', 'UA-67237593-4', 'auto');
     ga('send', 'pageview');
 
 </script>
@@ -47,6 +47,9 @@
       
         
         <li class="p-activities"><a href="#activities">Atividades</a></li>
+      
+        
+        <li class="p-challenges"><a href="#challenges">Desafios</a></li>
       
         
         <li class="p-saturday"><a href="#saturday">Sábado 15</a></li>
@@ -82,6 +85,9 @@
         <li class="p-activities"><a href="#activities">Atividades</a></li>
       
         
+        <li class="p-challenges"><a href="#challenges">Desafios</a></li>
+      
+        
         <li class="p-saturday"><a href="#saturday">Sábado 15</a></li>
       
         
@@ -114,7 +120,7 @@
       <div id="intro" class="section p-intro">
         
         <div class="container center">
-          <p><img src="img/codeweek-logo.png" alt="codeweek" /></p>
+          <p><img src="img/home-logo.png" alt="codeweek" /></p>
 
 <h3>Outubro 2016 @ DI, Universidade do Minho</h3>
 
@@ -154,38 +160,47 @@
     <p class="feature-description"> Concurso de programação que decorrerá toda a semana! Enunciado em baixo. </p>
   </div>
 </div>
-<!--
-<ul class="challenge collapsible" data-collapsible="accordion">
-  <li>
-    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Enunciado</div>
-    <div class="challenge-body collapsible-body">
+
+
+        </div>
+      </div>
+    
       
-<figure class="highlight"><pre><code class="language-haskell" data-lang="haskell"><span class="c1">-- Descobrir o posicionamento de aspersores de água</span>
-<span class="c1">-- Por cada posição regada, 1 ponto é atribuído</span>
-<span class="c1">-- O objetivo é maximizar a pontuação</span>
-  <span class="c1">-- Só se podem colocar no máximo 8 aspersores</span>
-  <span class="c1">-- Cada aspersor só pode regar com um raio máximo de 20</span>
-  <span class="c1">-- Não se pode regar mais do que um cato</span>
-  <span class="c1">-- Não se pode regar fora da área de 51x51</span>
+      <div id="challenges" class="section p-challenges">
+        
+        <div class="subtlecircle sectiondivider">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa-stack-1x icon">
+              <img src="img/code.png" alt="section icon" />
+            </i>
+          </span>
+          <h5 class="icon-title">Desafios</h5>
+        </div>
+        
+        <div class="container ">
+          <h1>Desafio Algoritmico</h1>
 
-<span class="c1">-- Posições dos catos:</span>
-  <span class="p">[(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">14</span><span class="p">),(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">47</span><span class="p">),(</span><span class="mi">18</span><span class="p">,</span> <span class="mi">6</span><span class="p">),(</span><span class="mi">18</span><span class="p">,</span> <span class="mi">2</span><span class="p">),(</span><span class="mi">22</span><span class="p">,</span> <span class="mi">17</span><span class="p">),(</span><span class="mi">37</span><span class="p">,</span> <span class="mi">3</span><span class="p">),(</span><span class="mi">9</span><span class="p">,</span> <span class="mi">6</span><span class="p">),</span>
-  <span class="p">(</span><span class="mi">23</span><span class="p">,</span> <span class="mi">10</span><span class="p">),(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">49</span><span class="p">),(</span><span class="mi">21</span><span class="p">,</span> <span class="mi">50</span><span class="p">),(</span><span class="mi">33</span><span class="p">,</span> <span class="mi">0</span><span class="p">),(</span><span class="mi">30</span><span class="p">,</span> <span class="mi">47</span><span class="p">),(</span><span class="mi">36</span><span class="p">,</span> <span class="mi">16</span><span class="p">),(</span><span class="mi">20</span><span class="p">,</span> <span class="mi">22</span><span class="p">),</span>
-  <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">41</span><span class="p">),(</span><span class="mi">37</span><span class="p">,</span> <span class="mi">48</span><span class="p">),(</span><span class="mi">18</span><span class="p">,</span> <span class="mi">9</span><span class="p">),(</span><span class="mi">48</span><span class="p">,</span> <span class="mi">36</span><span class="p">),(</span><span class="mi">28</span><span class="p">,</span> <span class="mi">34</span><span class="p">),(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">24</span><span class="p">)]</span>
+<h4>Para concorreres basta aceder ao enunciado e entares no concurso CodeWeek16</h4>
+<h2><a href="https://mooshak.di.uminho.pt"> Enunciado </a></h2>
+<p></p>
 
-<span class="c1">-- Syntax do output</span>
-  <span class="p">[(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">radius</span><span class="p">),</span> <span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">radius</span><span class="p">)]</span>
-<span class="c1">-- Exemplo de output</span>
-  <span class="p">[(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">2</span><span class="p">),</span> <span class="p">(</span><span class="mi">35</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">1</span><span class="p">)]</span>
+<div class="row features">
+  <div class="col s12 m4 feature" target="_blank">
+    <h3> 1º Premio </h3>
+    <h4 class="feature-description">Bilhete para o <a href="https://enei.pt/pt/">Encontro nacional de Estudantes de Engenharia Informática </a>  </h4>
+  </div>
+  
+  <div class="col s12 m4 feature">
+    <h3> 2º Premio </h3>
+    <h4 class="feature-description"> <a href="http://makerfairelisbon.com/en/2014/09/16/arduino-inmotion.html"> Arduino Lisbon MakeFair </a> </h4>
+  </div>
+  <div class="col s12 m4 feature">
+    <h3> 3º Premio </h3>
+    <h4> <a href="https://scontent.flis1-1.fna.fbcdn.net/t31.0-8/q84/s960x960/14424874_1196191877104499_714946367660047432_o.jpg"> T-shirt do CeSIUM </a></h4>
+  </div>
+</div>
 
-<span class="c1">-- A linguagem para a resolução do desafio fica à tua discrição</span>
-      </code></pre></figure>
-
-      <a class="challenge-apply waves-effect waves-light btn bg-white" href="http://storm.cesium.di.uminho.pt/desafio/index.html" target="blank">Submeter</a>
-    </div>
-  </li>
-</ul>
--->
 
         </div>
       </div>
@@ -338,7 +353,7 @@
       <div class="col m9 activity-info">
         <h4 class="activity-title"> Informática, mas que raio?! </h4>
         <div class="col s12 activity-time">
-          <i class="fa fa-clock-o"></i> <span> TBA </span>
+          <i class="fa fa-clock-o"></i> <span> 18h-19h </span>
         </div>
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> TBA </span>
@@ -360,7 +375,7 @@
           <i class="fa fa-clock-o"></i> <span> 22h-24h </span>
         </div>
         <div class="col s12 activity-place">
-          <i class="fa fa-map-marker"></i> <span> Velha-a-Branca </span>
+          <i class="fa fa-map-marker"></i> <span> <a target="_blank" href="https://www.facebook.com/juno.cafe.braga/">Juno</a> </span>
         </div>
         <p class="col m12 activity-desc"> As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio. </p>
         
@@ -427,7 +442,7 @@
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> DI 0.03 </span>
         </div>
-        <p class="col m12 activity-desc"> A produtividade perfeita e o teu método de trabalho é algo a desenvolver durante anos!- dizem-te. Será? <br /> É. Mas, estamos aqui para te dar a primeira ajuda! Vem descobrir mais sobre produtividade, sobre editores de texto e outras ferramentas e truques que, de certeza que te vão ajudar durante o curso. </p>
+        <p class="col m12 activity-desc"> A shell pode ser assustadora. Demoras a fazer coisas, é lento, complicado e difícil e dás por ti a procurar sempre o rato para fazer tudo o que precisas. Usar um terminal não é fácil, mas uma shell dá-te super-poderes! Desde editores de texto a ficheiros de configuração, vamos-te ajudar a ser produtivo e dar os primeiros passos no mundo Unix. </p>
         
         <a class="waves-effect waves-light btn bg-thursday" href="https://cesium.typeform.com/to/L90X0Z" target="blank">Inscrição</a>
         
@@ -528,7 +543,7 @@
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> TBA </span>
         </div>
-        <p class="col m12 activity-desc"> Ao final de uma semana cheia a ultima coisa que te apetece é ires outra vez para dentro de um auditório. Mete os músculos a mexer connosco e aproveita esta tarde para relaxar, tu mereces campeão. </p>
+        <p class="col m12 activity-desc"> No fim de uma semana cheia, a última coisa que te apetece é ires outra vez para dentro de um auditório. Mete os músculos a mexer connosco e aproveita esta tarde para relaxar. Tu mereces, campeão! </p>
         
         <a class="waves-effect waves-light btn bg-saturday-two" href="https://cesium.typeform.com/to/qdMQiv" target="blank">Inscrição</a>
         
@@ -570,7 +585,7 @@
         <div class="col s12 activity-place">
           <i class="fa fa-map-marker"></i> <span> DI </span>
         </div>
-        <p class="col m12 activity-desc"> Achas que a Informática é só para homens? Pois engana-te! Elas andam ai, e em peso! Se és uma rapariga interessada em Informática e gostavas de aprender um bocado mais sobre Ruby, isto é para ti! </p>
+        <p class="col m12 activity-desc"> Achas que a Informática é só para homens? Pois engana-te! Elas andam aí, e em peso! Se és uma rapariga interessada em Informática e gostavas de aprender um bocado mais sobre Ruby, isto é para ti! </p>
         
         <a class="waves-effect waves-light btn bg-contacts" href="https://cesium.typeform.com/to/HGjxbW" target="blank">Inscrição</a>
         
