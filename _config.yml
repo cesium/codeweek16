@@ -26,8 +26,10 @@ google_analytics_key: UA-67237593-4 ## put YOUR key here to enable tracking! (bl
 ### template colors, used site-wide via css ###
 colors:
   white:        '#eaeaea'
-  intro:        '#428bca'
-  activities:   '#ed7950'
+  grey :        '#696969'
+  intro:        '#696969'
+  activities:   '#428bca'
+  challenges:   '#ed7950'
   saturday-one: '#66b266'
   monday:       '#5ea06e'
   tuesday:      '#578e77'
