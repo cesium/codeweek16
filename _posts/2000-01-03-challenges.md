@@ -9,7 +9,7 @@ icon: code.png
 # Desafio Algoritmico 
 
 #### Para concorreres basta aceder ao enunciado e entares no concurso CodeWeek16
-## <a href="https://mooshak.di.uminho.pt"> Enunciado </a>
+<h2> <a href="https://mooshak.di.uminho.pt"> Enunciado </a> </h2>
 <p></p>
 
 <div class="row features">
