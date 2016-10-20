@@ -3,7 +3,7 @@ saturday1:
     time: 10h-12h
     place: GNRation
     image: coderdojo.png
-    typeform: 
+    typeform:
     text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse em informática, aparece ou partilha!
 
 monday:
@@ -27,7 +27,7 @@ tuesday:
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/z1STis
     text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprenderes os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
-    
+
   - title: Informática, mas que raio?!
     time: 18h-19h
     place: DI 0.03
@@ -51,7 +51,7 @@ wednesday:
 
   - title: The Shell Survival Guide
     time: 17h-18h
-    place: DI 0.03
+    place: DI A2
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/L90X0Z
     text: A shell pode ser assustadora. Demoras a fazer coisas, é lento, complicado e difícil e dás por ti a procurar sempre o rato para fazer tudo o que precisas. Usar um terminal não é fácil, mas uma shell dá-te super-poderes! Desde editores de texto a ficheiros de configuração, vamos-te ajudar a ser produtivo e dar os primeiros passos no mundo Unix.
@@ -72,7 +72,7 @@ friday:
     text: Se no início da semana não tiveste oportunidade, aproveita e passa pelo Departamento de Informática e relembra a informática de outrora e os bons sons 8-bits que temos para ti.
 
 
-  - title: Recreativo 
+  - title: Recreativo
     time: 15h-17h
     place: TBA
     image: recreativo.png
@@ -83,7 +83,7 @@ friday:
 saturday2:
   - title: Rails Girls
     time: 9h-17h
-    place: DI
+    place: DI A2
     image: rails.png
     typeform: https://cesium.typeform.com/to/HGjxbW
-    text: Achas que a Informática é só para homens? Pois engana-te! Elas andam aí, e em peso! Se és uma rapariga interessada em Informática e gostavas de aprender um bocado mais sobre Ruby, isto é para ti!
+    text: O Rails Girls é uma iniciativa internacional com o objetivo de atrair mais mulheres para o mundo das tecnologias de informação e de as providenciar com uma poderosa ferramenta para o mercado de trabalho. Venham, a Informática precisa de vocês!
